@@ -1,0 +1,3 @@
+atom-ternjs     JS代码智能提示补全
+indent-guide-improved     标签竖对齐美化
+JSLint    验证js语法的规范
