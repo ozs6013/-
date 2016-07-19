@@ -1,3 +1,22 @@
+前端插件 
+http://www.mamicode.com/info-detail-1060353.html
+Chinese
 atom-ternjs     JS代码智能提示补全
 indent-guide-improved     标签竖对齐美化
 JSLint    验证js语法的规范
+ atom-beautify  这是个美化代码的插件，几乎支持所有主流的语言，完全可以满足前端同学的使用。
+
+本地安装插件 ：下载Windows版本 git 后，http://jingyan.baidu.com/album/414eccf64861bf6b431f0a16.html?picindex=4
+变量地址：C:\Users\Administrator\AppData\Local\atom\app-1.8.0\resources\app\apm\bin
+
+  linter：你觉得你的代码写的很不专业吗？这个插件会自动提示你代码中不规范的地方，如果你希望得到更完整的提示的话可以尝试更加详细的系列，例如linter-jshint
+
+   minimap：用过sublime text的同学一定知道右边那方便的缩略图，难道这么好用的工具Atom上会没有吗？不会！这个插件就会让你见到熟悉的缩略图，那么为什么要用插件呢？因为这个插件可以继续安装插件！你会发现一个真正强大的缩！略！图！
+minimap-find-and-replace
+minimap-highlight-selected.
+
+
+     expose：当你一次性打开多个文件的时候也许你会使用分屏来查看，但是我相信你的屏幕不会大到让你无限的分屏，那么就需要在多个文件中切换，或者是查看多个文件，那么你可以点击最上边的标签，那有没有更方便的呢？有的！！那就是这个插件，shift+atl+e，就是这个效果：
+
+Highlight Selected  高亮选择文字
+设置tab的长度4
