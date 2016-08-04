@@ -20,3 +20,6 @@ minimap-highlight-selected.
 
 Highlight Selected  高亮选择文字
 设置tab的长度4
+
+atom-jquery-snippets   jQuery补全功能
+atom-html-preview      html页面预览效果Ctrl+Shift+H
